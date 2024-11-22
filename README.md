@@ -1,4 +1,4 @@
-# ELG-6131
+# Aorta Segmentation in Computed Tomography Angiography Scans
 Projects completed as per the requirements of the course
 
 Literature Review: Aorta SegmentationinComputed Tomography Angiography Scans
